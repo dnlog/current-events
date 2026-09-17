@@ -1,12 +1,12 @@
-# Global Event
+# Global Events
 
 Date: September 15, 2026
 
-People around the world follow important events. News can help us understand what is happening around us.
+Know what's going on around the world.
 
 ## Why It Matters
 
-Global events can affect many people and communities, no matter where they are.
+Global events can affect many people and communities, no matter where they are. News can help us understand what is happening around us and what's next to come.
 
 ## Key Points
 
