@@ -1,6 +1,6 @@
 # Global Events
 
-Date: September 15, 2026
+![Global news thumbnail](../images/global-news-thumbnail.jpg)
 
 Know what's going on around the world.
 

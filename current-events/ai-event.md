@@ -1,6 +1,6 @@
 # AI Events
 
-Date: September 15, 2026
+![AI news thumbnail](../images/AI-news-thumbnail.jpg)
 
 Explore recent AI breakthroughs.
 
