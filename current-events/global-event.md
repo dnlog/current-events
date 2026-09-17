@@ -2,11 +2,11 @@
 
 Date: September 15, 2026
 
-People around the world follow important events. News can help us understand what is happening.
+People around the world follow important events. News can help us understand what is happening around us.
 
 ## Why It Matters
 
-Global events can affect many people and communities.
+Global events can affect many people and communities, no matter where they are.
 
 ## Key Points
 
@@ -14,10 +14,10 @@ Global events can affect many people and communities.
 - Check the date of each story.
 - Talk about what you learn.
 
-## News Story Links
+## Top Stories (as of September 2026)
 
-- [News story title](https://example.com)
-- [Another news story title](https://example.com)
+- [China tightens travel restrictions on citizens:](https://www.bbc.com/news/articles/cqe8x6gkk250o)
+- [Germany's far-right AfD party wins parliamentary election:](https://www.pbs.org/newshour/show/far-right-afd-win-signals-shift-in-germany-raises-alarm-in-europe)
 
 [Back to README](../README.md)
 

@@ -17,7 +17,7 @@ It's no secret that AI is rapidly changing how people work, learn, and share ide
 ## Top Stories (as of September 2026)
 
 - [OpenAI reveals cases of "concerning" AI behavior amid new disclosure system:](https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents)
-- [Anthropic CEO calls for "slowdown" of AI model development](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
+- [Anthropic CEO calls for "slowdown" of AI model development:](https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models)
 
 [Back to README](../README.md)
 
