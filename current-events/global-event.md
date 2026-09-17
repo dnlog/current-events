@@ -8,11 +8,20 @@ People around the world follow important events. News can help us understand wha
 
 Global events can affect many people and communities.
 
+## Key Points
+
 - Read trusted news sources.
 - Check the date of each story.
 - Talk about what you learn.
 
+## News Story Links
+
+- [News story title](https://example.com)
+- [Another news story title](https://example.com)
+
 [Back to README](../README.md)
+
+## Simple Diagram
 
 ```mermaid
 flowchart LR
